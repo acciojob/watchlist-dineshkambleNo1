@@ -10,3 +10,5 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 }
+
+//1. Read the problem as a whole and try to create s design in your mind.
